@@ -1,0 +1,51 @@
+nom,region,BL,SL,montant,latitude,longitude
+Schema de developpement touristique rural,Souss-Massa,Conseil and Operations,SL Conseil,120,30.627048681496575,-8.703962166466466
+Valorisation durable des sites historiques,Rabat-Sale-Kenitra,Conseil and Operations,SL Conseil,95,31.656487742190087,-5.989444619925114
+Plan d’amenagement urbain eco-durable,Casablanca-Settat,Conseil and Operations,SL Conseil,150,33.58926132509285,-7.780117407477411
+Tourisme solidaire en zones montagneuses,Beni Mellal-Khenifra,Conseil and Operations,SL Conseil,80,31.239464938743943,-5.94740957884957
+Hub de coordination ESS et developpement local,Fes-Meknes,Conseil and Operations,SL Conseil,90,31.258041879815995,-5.861383487070302
+etudes techniques pour extension aeroport Agadir,Souss-Massa,Conseil and Operations,SL Aviation,130,30.766824329154502,-8.9359217983652
+Conseil technique aeronautique – Nador,Oriental,Conseil and Operations,SL Aviation,110,34.907132571761885,-2.575702007595397
+Ingenierie du hub logistique aeroportuaire,Casablanca-Settat,Conseil and Operations,SL Aviation,140,33.6063068399115,-7.534831970088367
+etudes pour centre de maintenance aerienne,Marrakech-Safi,Conseil and Operations,SL Aviation,95,31.725264859392084,-7.963589599185488
+Appui technique a la navigation aerienne,Rabat-Sale-Kenitra,Conseil and Operations,SL Aviation,100,31.628378619779383,-5.726911947465316
+Rehabilitation et entretien de la RN13,Fes-Meknes,Conseil and Operations,SL O&M,180,31.78362772042081,-5.816128899511369
+Contrat de maintenance ferroviaire,Casablanca-Settat,Conseil and Operations,SL O&M,200,33.63068936450815,-7.937162192323637
+Gestion des infrastructures routieres rurales,Tanger-Tetouan-Al Hoceima,Conseil and Operations,SL O&M,160,31.623614070718865,-5.948259125860165
+Plan O&M pour bus electriques,Rabat-Sale-Kenitra,Conseil and Operations,SL O&M,145,31.467975756488766,-5.865745745141573
+Gestion durable des aerogares regionales,Marrakech-Safi,Conseil and Operations,SL O&M,120,31.537295288912052,-8.287563605059153
+Tramway ligne 3 Casablanca,Casablanca-Settat,Transportation,SL Urban transport,3600,33.336983727651116,-7.538166736729497
+Busway Rabat,Rabat-Sale-Kenitra,Transportation,SL Urban transport,850,31.54441350760262,-6.076276246113906
+Tramway Agadir,Souss-Massa,Transportation,SL Urban transport,1900,30.155032958641183,-9.286528200575193
+Extension tramway Marrakech,Marrakech-Safi,Transportation,SL Urban transport,1300,31.340051230635087,-8.3319740614217
+Reseau BRT Fes,Fes-Meknes,Transportation,SL Urban transport,900,31.83766407893237,-6.346474739332306
+LGV Kenitra-Marrakech,Rabat-Sale-Kenitra,Transportation,SL Interurbain,20000,31.698179240178227,-5.820061360946712
+Autoroute Guelmim-Dakhla,Guelmim-Oued Noun,Transportation,SL Interurbain,8000,28.792973224045163,-10.0383186156998
+Dedoublement RN9,Marrakech-Safi,Transportation,SL Interurbain,1800,31.721476850556108,-7.712836878147053
+Liaison express Nador-Al Hoceima,Oriental,Transportation,SL Interurbain,2500,34.800209126441786,-2.028715794251555
+Voie express Beni Mellal-Fquih Ben Salah,Beni Mellal-Khenifra,Transportation,SL Interurbain,1200,31.360424283941867,-5.728067562756004
+Port de Dakhla Atlantique,Dakhla-Oued Ed-Dahab,Transportation,SL Structures,12000,23.426524845995473,-16.092756942451366
+Pont a haubans sur Oued Bouregreg,Rabat-Sale-Kenitra,Transportation,SL Structures,2500,31.24075587091349,-5.568122800984718
+Tunnel urbain Casablanca,Casablanca-Settat,Transportation,SL Structures,4000,33.499403387131885,-7.4789584772916085
+Extension Port Safi,Marrakech-Safi,Transportation,SL Structures,1700,31.681143683504622,-8.120500583847983
+Pont autoroutier sur Oued Sebou,Fes-Meknes,Transportation,SL Structures,1000,31.816483777509507,-5.8866058854068966
+ecoquartier vert Tamesna,Rabat-Sale-Kenitra,Energy & Sustainable Cities,SL Architecture,700,31.357493429835838,-6.059803300884245
+Centre culturel durable,Casablanca-Settat,Energy & Sustainable Cities,SL Architecture,650,33.475148281634276,-7.7445934611914256
+Siege administratif eco-conçu,Beni Mellal-Khenifra,Energy & Sustainable Cities,SL Architecture,600,31.68513344965536,-5.8772953974104265
+Renovation HQE d’equipements publics,Tanger-Tetouan-Al Hoceima,Energy & Sustainable Cities,SL Architecture,500,31.37960414228191,-6.01271948745269
+Architecture verte du campus Agadir,Souss-Massa,Energy & Sustainable Cities,SL Architecture,550,30.328234316160938,-8.975419107248687
+Centre de recherche bioclimatique,Oriental,Energy & Sustainable Cities,SL Building Engineering and sustainability,800,34.332174079884645,-2.4789355169150102
+Batiments a energie positive,Casablanca-Settat,Energy & Sustainable Cities,SL Building Engineering and sustainability,1200,33.23537283524495,-7.863336577630675
+Rehabilitation energetique lycees,Rabat-Sale-Kenitra,Energy & Sustainable Cities,SL Building Engineering and sustainability,900,31.496244547804796,-5.836938013559643
+Plan de transition ecologique batiments,Souss-Massa,Energy & Sustainable Cities,SL Building Engineering and sustainability,850,30.3519953402447,-8.268189832001502
+Complexe eco-energetique universitaire,Marrakech-Safi,Energy & Sustainable Cities,SL Building Engineering and sustainability,950,31.49362207790642,-7.937998091165444
+Station de dessalement d’eau,Dakhla-Oued Ed-Dahab,Energy & Sustainable Cities,"SL Water, Energy, Environment",2000,23.53853947496017,-16.05165013904746
+Projet d’irrigation solaire,Souss-Massa,Energy & Sustainable Cities,"SL Water, Energy, Environment",1500,30.17388103291967,-8.846738422305377
+Traitement des dechets menagers,Casablanca-Settat,Energy & Sustainable Cities,"SL Water, Energy, Environment",1800,33.85358796300185,-7.572966588558379
+Station d’epuration Fes-Nord,Fes-Meknes,Energy & Sustainable Cities,"SL Water, Energy, Environment",1300,31.527230394244302,-6.106618006496028
+Projet de reforestation intelligente,Marrakech-Safi,Energy & Sustainable Cities,"SL Water, Energy, Environment",800,31.49241419512572,-8.087324974173637
+etudes centrales nucleaires a usage medical,Rabat-Sale-Kenitra,Energy & Sustainable Cities,SL Nuclear,950,31.41937633043873,-6.040910545525841
+Programme nucleaire universitaire,Casablanca-Settat,Energy & Sustainable Cities,SL Nuclear,1100,33.40980287806524,-7.8558385271515485
+Centre de contrôle radioactif,Fes-Meknes,Energy & Sustainable Cities,SL Nuclear,900,31.169871722826432,-5.996673394036327
+Partenariat nucleaire civil-recherche,Tanger-Tetouan-Al Hoceima,Energy & Sustainable Cities,SL Nuclear,1050,31.761792799804965,-6.081279725271757
+Deploiement technologique isotopes,Marrakech-Safi,Energy & Sustainable Cities,SL Nuclear,1200,31.353735897898368,-7.833939324550624
